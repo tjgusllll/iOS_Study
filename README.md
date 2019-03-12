@@ -1,7 +1,7 @@
 # iOS_Study
 # LifeCycle 정리
 
-생명주기에는 앱 생명주기(App LifeCycle)와 뷰 컨트롤러 생명주기(ViewController LifeCycle)이 있다.<br><br><br>
+생명주기에는 앱 생명주기(App LifeCycle)와 뷰 컨트롤러 생명주기(ViewController LifeCycle) 있다.<br><br><br>
 
 ## 앱 생명주기 (App LifeCycle)
 앱 생명주기는 앱의 background 또는 foreground 등과 같은 상태들을 정의한 것이다. <br>
