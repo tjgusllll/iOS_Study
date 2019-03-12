@@ -65,3 +65,15 @@ ViewController.swift에 작성한다.<br>
 ## 앱 실행시 호출 순서
 생명주기들의 호출 순서를 알아보기 위해 다음과 같은 화면을 구성하였다. <br>
 
+<img src="./img/1.png" width="300" height="600"> <img src="./img/2.png" width="300" height="600"> <br><br>
+
+앱 실행 순서는 다음과 같다. <br>
+1. 앱 실행<br>
+2. NextView 버튼 클릭하여 파란색 뷰로 화면전환<br>
+3. Back 클릭해 이전 뷰로 화면전환<br>
+4. 홈버튼 클릭하여 앱을 background상태로 전환<br>
+5. 앱을 다시 실행<br>
+6. 앱 종료<br><br>
+
+위와 같은 순서에 따라 실행하였을 때 콘솔에 출력되는 결과는 다음 이미지와 같다.<br>
+<img src="./img/생명주기" width="600" heigh="300">
