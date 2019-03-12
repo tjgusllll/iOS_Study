@@ -76,4 +76,4 @@ ViewController.swift에 작성한다.<br>
 6. 앱 종료<br><br>
 
 위와 같은 순서에 따라 실행하였을 때 콘솔에 출력되는 결과는 다음 이미지와 같다.<br>
-<img src="./img/생명주기" width="600" heigh="300">
+<img src="./img/생명주기.png" width="1000" heigh="500">
